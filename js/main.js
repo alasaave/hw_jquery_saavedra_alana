@@ -1,7 +1,5 @@
 //Jquery
 $(document).ready(function () {
-
-//Remove images
-    $('img').remove();
-
+	//get all p elements and assign to var "paragraphs"
+	var paragraphs = $('p');
 });
